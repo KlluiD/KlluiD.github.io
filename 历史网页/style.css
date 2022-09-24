@@ -1,0 +1,44 @@
+
+.title{
+    top: 0px;
+    left: 0px;
+    position: absolute;
+    height: 64px;
+    width: 100vw;
+    box-shadow: 2px 2px 2px rgba(63, 50, 50, 0.651);
+    background-color: rgb(248, 213, 115);
+}
+
+.title #title_text{
+    position: absolute;
+    font-size: 40px;
+    text-shadow: 2px 2px 3px rgb(63, 50, 50);
+    font-family: 华文琥珀;
+    top: 12px;
+    left: 10px;
+}
+
+.title #goodmens{
+    position: absolute;
+    font-size: 5px;
+    text-shadow: 1px 1px 2px rgb(63, 50, 50);
+    font-family: 宋体;
+    top: 38px;
+    left: 180px;
+}
+
+
+.title #maker{
+    height: 40px;
+    width: 100px;
+    position: absolute;
+    top: 12px;
+    right: 10px;
+
+    outline: none;
+    border-width: 0;
+    border-radius: 10%;
+
+    background-color: rgb(248, 175, 85);
+    cursor: pointer;
+}
