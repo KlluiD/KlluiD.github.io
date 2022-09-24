@@ -105,3 +105,4 @@ function show_good(){
 }
 
 show_good()
+alert("欢迎！！！")
